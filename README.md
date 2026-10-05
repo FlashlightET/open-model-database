@@ -7,11 +7,11 @@
 ![Static Badge](https://img.shields.io/badge/PRs-welcome-blue)
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-OpenModelDB is a community-driven database of AI upscaling models. We provide a centralized place to discover, compare, and download image/video upscaling models with detailed metadata, example images, and architecture information.
+OpenModelDB is a community-driven database of upscaling models. We provide a centralized place to discover, compare, and download image/video upscaling models with detailed metadata, example images, and architecture information.
 
 ## Features
 
-- Browse 600+ AI upscaling models with detailed information
+- Browse 600+ upscaling models with detailed information
 - Compare models side-by-side with example images
 - Filter by architecture, scale, tags, and more
 - View model metadata including training details and licenses
@@ -44,7 +44,7 @@ The site will be available at http://localhost:3010.
 
 We welcome contributions! Here are some ways you can help:
 
-- **Add models**: Submit new AI upscaling models to the database
+- **Add models**: Submit new upscaling models to the database
 - **Report bugs**: Open an issue if you find a problem
 - **Suggest features**: Share ideas for improvements
 - **Improve documentation**: Help make the docs better
